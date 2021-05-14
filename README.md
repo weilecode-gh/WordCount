@@ -5,3 +5,5 @@ count char or words
 例：
 wordCount.exe -c input.txt //统计input.txt中的字符数
 wordCount.exe -w input.txt //统计input.txt中的单词数
+
+.exe在Debug中，.c在WordCount中
